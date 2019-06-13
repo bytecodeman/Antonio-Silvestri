@@ -1,2 +1,2 @@
 # Test.md
-[Read Me](readme.md)
+[Read Me](README.md)
